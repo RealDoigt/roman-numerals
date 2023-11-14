@@ -61,14 +61,3 @@ auto toRoman(int num, bool isLowerCase = false)
 
     return isLowerCase ? result.toLower : result;
 }
-
-void main()
-{
-    foreach(i; 0..10) i.toRoman.writeln;
-    for(int i = 10; i < 100; i += 10) i.toRoman.writeln;
-    for(int i = 100; i < 1000; i += 100) i.toRoman.writeln;
-    
-    4000.toRoman.writeln;
-    3999.toRoman.writeln;
-    2749.toRoman.writeln;
-}
