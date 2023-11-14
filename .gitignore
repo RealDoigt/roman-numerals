@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/roman-numerals
+roman-numerals.so
+roman-numerals.dylib
+roman-numerals.dll
+roman-numerals.a
+roman-numerals.lib
+roman-numerals-test-*
+*.exe
+*.o
+*.obj
+*.lst

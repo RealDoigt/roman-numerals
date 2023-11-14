@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Doigt"
+	],
+	"copyright": "Copyright © 2023, Doigt",
+	"description": "Roman Numerals",
+	"license": "mit",
+	"name": "roman-numerals"
+}
