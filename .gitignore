@@ -13,3 +13,4 @@ roman-numerals-test-*
 *.o
 *.obj
 *.lst
+libroman-numerals.a
