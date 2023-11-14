@@ -1,6 +1,5 @@
 module roman_numerals;
 import std.string;
-import std.stdio;
 import std.conv;
 
 package
